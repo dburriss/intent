@@ -1,0 +1,13 @@
+source https://api.nuget.org/v3/index.json
+
+nuget FSharp.Core
+
+nuget coverlet.collector 1.0.1
+nuget FSharp.SystemTextJson
+nuget Microsoft.Data.SQLite 3.0.1
+nuget Microsoft.NET.Test.Sdk 16.2.0
+nuget TaskBuilder.fs 2.1.0
+nuget xunit 2.4.0
+nuget xunit.runner.visualstudio 2.4.0
+nuget Unquote 5.0.0
+nuget Dapper
